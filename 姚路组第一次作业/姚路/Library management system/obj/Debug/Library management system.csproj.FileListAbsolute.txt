@@ -1,0 +1,7 @@
+C:\Users\Unlimited Secret\Desktop\Data\暑期工程训练\代码\已完成\Library management system\Library management system\bin\Debug\Library management system.exe.config
+C:\Users\Unlimited Secret\Desktop\Data\暑期工程训练\代码\已完成\Library management system\Library management system\bin\Debug\Library management system.exe
+C:\Users\Unlimited Secret\Desktop\Data\暑期工程训练\代码\已完成\Library management system\Library management system\bin\Debug\Library management system.pdb
+C:\Users\Unlimited Secret\Desktop\Data\暑期工程训练\代码\已完成\Library management system\Library management system\obj\Debug\Library management system.csprojAssemblyReference.cache
+C:\Users\Unlimited Secret\Desktop\Data\暑期工程训练\代码\已完成\Library management system\Library management system\obj\Debug\Library management system.csproj.CoreCompileInputs.cache
+C:\Users\Unlimited Secret\Desktop\Data\暑期工程训练\代码\已完成\Library management system\Library management system\obj\Debug\Library management system.exe
+C:\Users\Unlimited Secret\Desktop\Data\暑期工程训练\代码\已完成\Library management system\Library management system\obj\Debug\Library management system.pdb
